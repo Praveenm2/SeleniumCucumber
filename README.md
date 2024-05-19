@@ -23,3 +23,5 @@ Created reports such as Html,Json and Junit.
 Adding Selenium java maven dependency
 
 Created a Feature file for google search named ```googlesearch.feature```
+
+Created a Step definition/Glue code under src/test/java package named ```googlesearchstepdef```
