@@ -1,10 +1,18 @@
 # SeleniumCucumber
+
 Complete Selenium Cucumber JAVA BDD
+
 Created a New Maven Project
+
 Added the Maven dependencies |Cucumber
+
 Created a new Folder named Feature under src/test/resources
-Created a Feature file named '''login.feature''' 
-For that downloaded a C
+
+Created a Feature file named ```login.feature``` 
+
+For that downloaded a Cucumber Eclipse Plugin in Eclipse Marketplace
+
+Create a feature file and add contents
 ```ssh-keygen```
 
 Generating public/private rsa key pair.
