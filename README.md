@@ -18,3 +18,8 @@ Created a Runnerfile and added a packages such as ```Junit and Cucumber junit```
 
 Created reports such as Html,Json and Junit.
 
+#First Selenium Test
+
+Adding Selenium java maven dependency
+
+Created a Feature file for google search named ```googlesearch.feature```
