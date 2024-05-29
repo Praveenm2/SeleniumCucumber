@@ -6,6 +6,8 @@ Added the Maven dependencies |Cucumber
 
 Created a new Folder named Feature under src/test/resources
 
+Added ```cucumber eclipse plugin``` in Eclipse marketplace
+
 Created a Feature file named ```login.feature``` 
 
 For that downloaded a Cucumber Eclipse Plugin in Eclipse Marketplace
